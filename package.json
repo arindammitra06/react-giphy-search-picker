@@ -1,5 +1,5 @@
 {
-  "name": "@lux/react-giphy-searchbox",
+  "name": "react-giphy-searchbox",
   "version": "1.5.4-techedge.0",
   "description": "React Giphy Searchbox",
   "main": "lib/index.js",

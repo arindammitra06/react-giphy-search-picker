@@ -41,7 +41,6 @@
     "babel-jest": "^25.1.0",
     "babel-polyfill": "^6.26.0",
     "eslint": "^6.8.0",
-    "eslint-config-airbnb": "^18.0.1",
     "eslint-config-prettier": "^6.9.0",
     "eslint-plugin-flowtype": "^4.5.3",
     "eslint-plugin-import": "^2.17.3",
@@ -58,8 +57,8 @@
     "match-media-mock": "^0.1.1",
     "nwb": "0.23.x",
     "prettier": "^1.18.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "react-syntax-highlighter": "^12.2.1",
     "react-test-renderer": "^16.8.6"
   },

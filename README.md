@@ -107,13 +107,5 @@ When defining your properties, note the following:
 - The size without the `mq` property is assumed to be your **smallest breakpoint, and must appear first.**
 
 ## License
-MIT. © 2021 Sergio Pedercini
+Apache License 2.0
 
-[build-badge]: https://img.shields.io/travis/sergiop/react-giphy-searchbox?style=flat-square
-[build]: https://travis-ci.org/sergiop/react-giphy-searchbox
-
-[npm-badge]: https://img.shields.io/npm/v/react-giphy-searchbox?style=flat-square
-[npm]: https://www.npmjs.org/package/react-giphy-searchbox
-
-[codecov-badge]: https://img.shields.io/codecov/c/github/sergiop/react-giphy-searchbox?style=flat-square&token=c22b785c904542cfa751e2ff255e1180
-[Codecov]: https://codecov.io/gh/sergiop/react-giphy-searchbox

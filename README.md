@@ -2,9 +2,6 @@
   Responsive and customizable search and select for Giphy's GIFs.
 </h3>
 
-<p align="center">
-  <a href="https://sergiop.github.io/react-giphy-searchbox/">https://sergiop.github.io/react-giphy-searchbox/</a>
-</p>
 <br>
 
 [![Travis][build-badge]][build]

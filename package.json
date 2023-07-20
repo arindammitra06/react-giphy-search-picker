@@ -1,7 +1,7 @@
 {
-  "name": "react-giphy-searchbox-techedge",
-  "version": "1.5.4-techedge.0",
-  "description": "React Giphy Searchbox",
+  "name": "react-giphy-search-picker",
+  "version": "1.5.4-ari.0",
+  "description": "React Giphy Search Picker",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -48,18 +48,18 @@
     "gh-pages": "^2.2.0",
     "identity-obj-proxy": "^3.0.0",
     "inferno": "^7.4.1",
-    "jest": "^25.1.0",
+    "jest": "^29.6.1",
     "match-media-mock": "^0.1.1",
-    "nwb": "0.23.x",
+    "nwb": "^0.25.2",
     "prettier": "^1.18.2",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "react-syntax-highlighter": "^12.2.1"
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-syntax-highlighter": "^15.5.0"
   },
   "author": "Sergio Pedercini",
-  "homepage": "https://sergiop.github.io/react-giphy-searchbox/",
-  "license": "MIT",
-  "repository": "github:sergiop/react-giphy-searchbox",
+  "homepage": "https://github.com/arindammitra06/react-giphy-search-picker",
+  "license": "Apache License 2",
+  "repository": "github:arindammitra06/react-giphy-search-picker",
   "keywords": [
     "react-component",
     "giphy",

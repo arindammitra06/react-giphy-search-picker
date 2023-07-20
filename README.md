@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="180" src="https://user-images.githubusercontent.com/2235134/62211432-b7b7ee00-b39e-11e9-84be-c0f2d1be87d6.png" alt="React Giphy Searchbox Logo">
-</p>
-
 <h3 align="center">
   Responsive and customizable search and select for Giphy's GIFs.
 </h3>
@@ -31,22 +27,16 @@
 
 ---
 
-## Demo
-
-Play with a simple responsive demo on [CodeSandbox](https://codesandbox.io/s/react-giphy-searchbox-l8dxc?fontsize=14)
-
-[![Edit react-giphy-searchbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/react-giphy-searchbox-l8dxc?fontsize=14)
-
 ## Getting started
 
 ### Installation
 
 ```
-yarn add react-giphy-searchbox
+yarn add react-giphy-search-picker
 ```
 
 ```
-npm install react-giphy-searchbox --save
+npm install react-giphy-search-picker --save
 ```
 
 ### Basic example
@@ -54,7 +44,7 @@ npm install react-giphy-searchbox --save
 ```javascript
 import React from 'react'
 import { render } from 'react-dom'
-import ReactGiphySearchbox from 'react-giphy-searchbox'
+import ReactGiphySearchbox from 'react-giphy-search-picker'
 
 const App = () => (
   <ReactGiphySearchbox
